@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 閻羅王五天使者經
+#+DATE: 2015-08-30 19:29:35.797701
+#+PROPERTY: JUAN 0
