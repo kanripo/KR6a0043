@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:35.607966
+#+DATE: 2015-08-30 19:29:36.558387
 #+TITLE: 閻羅王五天使者經
 #+PROPERTY: CBETA_ID T01n0043
 #+PROPERTY: ID KR6a0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 043
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6a0043_T_000-0828b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0043_T_001-0828b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.43[No.26(64),No.42,No.125(32.4)]¶
-
- 佛說閻羅王五天使者經¶
+No. 43 [No. 26(64), No. 42, No. 125(32.4)]¶
+佛說閻羅王五天使者經¶
 ¶
 宋沙門慧簡譯¶
 
@@ -51,7 +50,7 @@ No.43[No.26(64),No.42,No.125(32.4)]¶
 福德，不恐畏死，當有所見；唯大王處其罰。』如¶
 是閻王，常先安徐，以忠正語為現五天使者¶
 而問言：『汝本不見，世間人始為嬰兒時，僵臥¶
-𡱁𡱤不能自護，口不知言語，亦不知好惡¶
+[尸@矢][尸@(泳-永+毛)]不能自護，口不知言語，亦不知好惡¶
 者耶？』人言：『已見，皆有是。』王言：『汝自謂獨不如¶
 是耶？人神從行，終即有生，雖尚未見，常當為¶
 善，自端其身端其口端其意，奈何放心快志？』¶
